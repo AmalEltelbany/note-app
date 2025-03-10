@@ -41,9 +41,6 @@
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "43d2eb79-7329-48da-805c-afc6395b7e99"
       }
     },
     "owner": "amal_eltelbany"
