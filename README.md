@@ -24,6 +24,12 @@ A simple and intuitive note-taking app built with **React Native** for the front
 
 ---
 
+### 🏆 Expo Snack Link
+
+[View on Expo Snack](https://snack.expo.dev/@amal_eltelbany/note-app-amal)
+
+---
+
 ## 🚀 Features
 
 - 📝 Create, edit, and delete notes  
@@ -119,11 +125,3 @@ Contributions, issues, and feature requests are welcome!
 ## 📔 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ✨ Author
-
-- [Amal El-Telbany](https://github.com/AmalEltelbany)  
-
-Feel free to reach out for any queries or collaborations!
